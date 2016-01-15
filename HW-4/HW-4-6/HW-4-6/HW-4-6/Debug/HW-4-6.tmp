@@ -1,0 +1,33 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.57</VERSION>
+ <DEVICE>"ATmega16"</DEVICE>
+ <WORKING_DIR>Z:\parham On My Mac\Documents\University\Dr.Homayounpour\Microprocessor\Homeworks\HW-4\HW-4-6\HW-4-6\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.0.90\avrasm\inc</DIR>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.0.90\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>Z:\parham On My Mac\Documents\University\Dr.Homayounpour\Microprocessor\Homeworks\HW-4\HW-4-6\HW-4-6\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.0.90\avrasm\inc\m16def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>Z:\parham On My Mac\Documents\University\Dr.Homayounpour\Microprocessor\Homeworks\HW-4\HW-4-6\HW-4-6\Debug\HW-4-6.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>HW-4-6.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>HW-4-6.map</FILE>
+  <FILE>HW-4-6.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <data><FILE>Z:\parham On My Mac\Documents\University\Dr.Homayounpour\Microprocessor\Homeworks\HW-4\HW-4-6\HW-4-6\main.asm</FILE><LINE>11</LINE></data>
+  <start><FILE>Z:\parham On My Mac\Documents\University\Dr.Homayounpour\Microprocessor\Homeworks\HW-4\HW-4-6\HW-4-6\main.asm</FILE><LINE>13</LINE></start>
+  <outer_loop><FILE>Z:\parham On My Mac\Documents\University\Dr.Homayounpour\Microprocessor\Homeworks\HW-4\HW-4-6\HW-4-6\main.asm</FILE><LINE>22</LINE></outer_loop>
+  <inner_loop><FILE>Z:\parham On My Mac\Documents\University\Dr.Homayounpour\Microprocessor\Homeworks\HW-4\HW-4-6\HW-4-6\main.asm</FILE><LINE>31</LINE></inner_loop>
+  <go_to_inner_loop><FILE>Z:\parham On My Mac\Documents\University\Dr.Homayounpour\Microprocessor\Homeworks\HW-4\HW-4-6\HW-4-6\main.asm</FILE><LINE>37</LINE></go_to_inner_loop>
+  <go_to_outer_loop><FILE>Z:\parham On My Mac\Documents\University\Dr.Homayounpour\Microprocessor\Homeworks\HW-4\HW-4-6\HW-4-6\main.asm</FILE><LINE>45</LINE></go_to_outer_loop>
+ </LABELS>
+</ASSEMBLER_INFO>
