@@ -1,0 +1,38 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.57</VERSION>
+ <DEVICE>"ATmega16"</DEVICE>
+ <WORKING_DIR>Z:\parham On My Mac\Documents\University\Dr.Homayounpour\Microprocessor\Homeworks\HW-5\HW-5-3-2\HW-5-3-2\HW-5-3-2\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.0.90\avrasm\inc</DIR>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.0.90\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>Z:\parham On My Mac\Documents\University\Dr.Homayounpour\Microprocessor\Homeworks\HW-5\HW-5-3-2\HW-5-3-2\HW-5-3-2\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.0.90\avrasm\inc\m16def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>Z:\parham On My Mac\Documents\University\Dr.Homayounpour\Microprocessor\Homeworks\HW-5\HW-5-3-2\HW-5-3-2\HW-5-3-2\Debug\HW-5-3-2.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>HW-5-3-2.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>HW-5-3-2.map</FILE>
+  <FILE>HW-5-3-2.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <reset_label><FILE>Z:\parham On My Mac\Documents\University\Dr.Homayounpour\Microprocessor\Homeworks\HW-5\HW-5-3-2\HW-5-3-2\HW-5-3-2\main.asm</FILE><LINE>11</LINE></reset_label>
+  <reset_isr><FILE>Z:\parham On My Mac\Documents\University\Dr.Homayounpour\Microprocessor\Homeworks\HW-5\HW-5-3-2\HW-5-3-2\HW-5-3-2\main.asm</FILE><LINE>19</LINE></reset_isr>
+  <int0_label><FILE>Z:\parham On My Mac\Documents\University\Dr.Homayounpour\Microprocessor\Homeworks\HW-5\HW-5-3-2\HW-5-3-2\HW-5-3-2\main.asm</FILE><LINE>14</LINE></int0_label>
+  <int0_isr><FILE>Z:\parham On My Mac\Documents\University\Dr.Homayounpour\Microprocessor\Homeworks\HW-5\HW-5-3-2\HW-5-3-2\HW-5-3-2\main.asm</FILE><LINE>53</LINE></int0_isr>
+  <int1_label><FILE>Z:\parham On My Mac\Documents\University\Dr.Homayounpour\Microprocessor\Homeworks\HW-5\HW-5-3-2\HW-5-3-2\HW-5-3-2\main.asm</FILE><LINE>17</LINE></int1_label>
+  <int1_isr><FILE>Z:\parham On My Mac\Documents\University\Dr.Homayounpour\Microprocessor\Homeworks\HW-5\HW-5-3-2\HW-5-3-2\HW-5-3-2\main.asm</FILE><LINE>60</LINE></int1_isr>
+  <start><FILE>Z:\parham On My Mac\Documents\University\Dr.Homayounpour\Microprocessor\Homeworks\HW-5\HW-5-3-2\HW-5-3-2\HW-5-3-2\main.asm</FILE><LINE>68</LINE></start>
+  <key_find><FILE>Z:\parham On My Mac\Documents\University\Dr.Homayounpour\Microprocessor\Homeworks\HW-5\HW-5-3-2\HW-5-3-2\HW-5-3-2\main.asm</FILE><LINE>70</LINE></key_find>
+  <key_find_loop1><FILE>Z:\parham On My Mac\Documents\University\Dr.Homayounpour\Microprocessor\Homeworks\HW-5\HW-5-3-2\HW-5-3-2\HW-5-3-2\main.asm</FILE><LINE>74</LINE></key_find_loop1>
+  <key_find_loop2><FILE>Z:\parham On My Mac\Documents\University\Dr.Homayounpour\Microprocessor\Homeworks\HW-5\HW-5-3-2\HW-5-3-2\HW-5-3-2\main.asm</FILE><LINE>80</LINE></key_find_loop2>
+  <key_find_ret><FILE>Z:\parham On My Mac\Documents\University\Dr.Homayounpour\Microprocessor\Homeworks\HW-5\HW-5-3-2\HW-5-3-2\HW-5-3-2\main.asm</FILE><LINE>93</LINE></key_find_ret>
+ </LABELS>
+</ASSEMBLER_INFO>
